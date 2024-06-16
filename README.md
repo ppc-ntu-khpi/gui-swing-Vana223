@@ -23,10 +23,10 @@
 ![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
 
 # Завдання "на три"
-![](/Task/Screens/Screnshot_1.png)
+![](/Task/Screens/Screenshot_1.png)
 
 # Завдання "на п'ять"
-![](/Task/Screens/Screnshot_2.png)
+![](/Task/Screens/Screenshot_2.png)
 
 ````java
 package com.mybank.gui;
